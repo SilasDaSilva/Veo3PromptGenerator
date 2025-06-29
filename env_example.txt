@@ -1,4 +1,0 @@
-# OpenAI API Key
-# Erhalten Sie Ihren API Key unter: https://platform.openai.com/api-keys
-# Benennen Sie diese Datei in .env um und fügen Sie Ihren API Key ein
-OPENAI_API_KEY='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'
